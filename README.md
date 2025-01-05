@@ -1,7 +1,7 @@
 # Spring Boot Project
 Spring Boot Vector Admin service
-# Table of Contents
-#about-the-project
+## Table of Contents
+[About the Project](#about-the-project)
 ### Clone the Repository  
 To clone this project to your local machine, use the following command:
 ## Usage
