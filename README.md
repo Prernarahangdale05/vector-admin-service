@@ -1,12 +1,12 @@
 # Spring Boot Project
 Spring Boot Vector Admin service
 ## Table of Contents
-[Prerequisites](#Prerequisites)
-[Setup](#Setup)
-[Usage](#Usage)
-[Running the Application](#Running-the-Application)
-[Testing](#Testing)
-[License](#License)
+1. [Prerequisites](#Prerequisites)
+2. [Setup](#Setup)
+3. [Usage](#Usage)
+4. [Running the Application](#Running-the-Application)
+5. [Testing](#Testing)
+6. [License](#License)
 
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
