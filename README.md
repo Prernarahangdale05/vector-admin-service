@@ -1,5 +1,5 @@
-# Spring Boot Project
-Spring Boot Vector Admin service
+# Spring Boot Vector Admin service
+An Admin Application for Role Management is a powerful system designed to help organizations manage user access, permissions, and responsibilities efficiently. This application ensures that users are assigned appropriate roles and have access to specific functionalities based on their roles, maintaining security and streamlining operations.
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
 2. [Setup](#Setup)
