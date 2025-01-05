@@ -17,5 +17,3 @@ IDE (e.g., IntelliJ IDEA, Eclipse): IntelliJ IDEA | Eclipse
 
 ## Setup
 To clone the project, use the following command:  
-```bash
-git clone https://github.com/your-username/repo-name.git
